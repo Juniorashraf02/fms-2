@@ -6,6 +6,8 @@
 
 <p style="color: coral">client side code link: <br/> https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-Juniorashraf02</p>
 
+<p style="color: coral">server link: <br/> https://fms-2.onrender.com/</p>
+
 ### `Features and Functionality`
 * Verified user should be able to see his/her picture in `Navbar`
 * In `Add Item` route user will be ale to add items
